@@ -25,10 +25,6 @@ Configurable logging with file and stream output
 Support for various input types
 Designed with professional software engineering principles
 
-🚀 Installation
-bashCopy# Clone the repository
-git clone https://github.com/yourusername/age-classifier.git
-
 # Navigate to the project directory
 cd age-classifier
 
